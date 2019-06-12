@@ -2,7 +2,8 @@
 MQTT Extension for App Inventor with Tutorial
 
 This repository includes the source code for the MQTT extension I developed. Also you can find the example code for a setup with Tinkerforge sensors. 
-Feel free to modify the source code for yourself and to report any issues. 
+Feel free to modify the source code for yourself and to report any issues.
+To get the extension, please contact me.
 
 ## Introduction
 App Inventor gives you the possibilty to include extensions for features that are currently missing. In this case I implemented a MQTT extension with the newest Java client library from Eclipse Paho.
