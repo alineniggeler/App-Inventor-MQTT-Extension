@@ -17,6 +17,6 @@ This extension makes a TCP connection to a broker. You can publish un- and subsc
 Currently it is only possible to make a connection with TCP. However I would like to implement a way to establish a TLS/SSL connection. Also I would like to upgrade the MQTT version from 3.1.1 to 5, when Paho is ready.
 
 ## Docker
-You can host your own instance of App Inventor, how you can do this is described on their GitHub site. Because it takes some time to set all up, I created a Docker image which does all these steps. You can find it on DockerHub.
+You can host your own instance of App Inventor, how you can do this is described on their GitHub site. Because it takes some time to set all up, I created a Docker image which does all these steps. You can find it on DockerHub, https://hub.docker.com/r/alnigg/appinventor.
 
 
